@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SIH Black
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.1.1
 // @description  Обходит проверку подписки SIH.Black для Steam Inventory Helper. Автоматически перехватывает проверку подписки и возвращает успешный ответ.
 // @author       Gariloz
 // @match        https://steamcommunity.com/*
